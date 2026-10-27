@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.giobuilds.Quillmarch.desktop.in
+data/io.github.giobuilds.Quillmarch.metainfo.xml.in
+data/io.github.giobuilds.Quillmarch.gschema.xml
+src/main.c
+src/quillmarch-window.c
+src/quillmarch-window.ui

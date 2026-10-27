@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Quillmarch
+Exec=quillmarch
+Icon=io.github.giobuilds.Quillmarch
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

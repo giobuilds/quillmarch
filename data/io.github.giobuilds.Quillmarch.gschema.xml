@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="quillmarch">
+	<schema id="io.github.giobuilds.Quillmarch" path="/io/github/giobuilds/Quillmarch/">
+	</schema>
+</schemalist>
