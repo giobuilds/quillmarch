@@ -1,6 +1,16 @@
 # quillmarch
 
-A description of this project.
+**The Core**
+
+A small double-entry ledger in SQLite, with accounts (bank, credit card, savings, income and expense categories) and transactions made of lines that must balance. Post entries and reverse them rather than deleting.
+
+**The Interface** 
+
+Simple screens like "Add expense", "Income", "Transfer", plus CSV bank import with categorising rules and reconciliation.
+
+**Reports**
+
+Balances per account, monthly spending per category, and later a budget against actuals.
 
 ## Schema sketch
 
